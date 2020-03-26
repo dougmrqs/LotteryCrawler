@@ -1,4 +1,4 @@
-# Crawler:
+# Crawler
 
 Para implementação de um robô que navega pelo site da Caixa, foi utilizada a biblioteca Selenium.
 
